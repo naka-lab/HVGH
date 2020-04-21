@@ -8,9 +8,9 @@ Nagano, M., Nakamura, T., Nagai, T., Mochihashi, D., Kobayashi, I., & Takano, W.
 
 ## 実行方法
 
-Colaboratoryで簡単に実行可能です．
+Colaboratoryで実行可能です．
 
-同フォルダにあるchickendance.txtをドライブにアップロードして，
+同フォルダにあるHVGHとchickendance%03d.txtをドライブにアップロードして，
 ```
 main関数内の
 
