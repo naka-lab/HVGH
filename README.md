@@ -8,7 +8,7 @@ Nagano, M., Nakamura, T., Nagai, T., Mochihashi, D., Kobayashi, I., & Takano, W.
 
 ## 実行方法
 
-Colaboratoryで実行可能です．
+Colaboratoryで実行可能です．[[code]](https://colab.research.google.com/drive/1G6tUNqtECLntesWj-ATXGAs6nxixyUcv)
 
 同フォルダにあるHVGHとchickendance%03d.txtを自身のgoogleドライブにアップロードして，
 ```
