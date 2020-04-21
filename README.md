@@ -10,7 +10,7 @@ Nagano, M., Nakamura, T., Nagai, T., Mochihashi, D., Kobayashi, I., & Takano, W.
 
 Colaboratoryで実行可能です．
 
-同フォルダにあるHVGHとchickendance%03d.txtをドライブにアップロードして，
+同フォルダにあるHVGHとchickendance%03d.txtを自身のgoogleドライブにアップロードして，
 ```
 main関数内の
 
