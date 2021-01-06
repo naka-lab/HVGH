@@ -52,8 +52,8 @@ SKIP_LEN: forward filtering-backward samplingで計算するtの間隔 (default:
 mainの
 main 関数の
 
-gamma: Stick Breaking ProcessのBeta分布のparameter (default: 1.0)
-eta: Hierarchical Dirichlet processのparameter (default: 10.0)
+gamma: Stick Breaking ProcessのBeta分布のparameter (default: 2.0)
+eta: Hierarchical Dirichlet processのparameter (default: 5.0)
 ```
 
 
