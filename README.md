@@ -38,7 +38,7 @@ theta3 = 16.0
 ```
 #### hypara2
 ```
-egmentationの
+segmentationの
 GPSegmentation クラスの
 
 * MAX_LEN: 最大の分節長 K (default: 20)
